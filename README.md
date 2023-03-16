@@ -1,0 +1,3 @@
+# ws-pxory
+之前的项目是app通过socket协议和游戏后台交互，后来新上了微信小游戏版本，只能走websocket协议。
+这个就是把客户端的websocket请求转发到后端tcp server的一个方案
